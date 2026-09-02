@@ -1,5 +1,5 @@
 // This will be the start of the code
-public class Activity {
+public class Assignment3 {
 // This is the Name of the file
     public static void main(String[] args) {
 // This is the start of every java code
